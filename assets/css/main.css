@@ -3699,3 +3699,10 @@ input, select, textarea {
 .tech-div > ul {
 	list-style-type: none;
 }
+
+.ref-links {
+	display: flex;
+	width: auto;
+	justify-content: center;
+	align-items: center;
+}
