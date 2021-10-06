@@ -3706,3 +3706,7 @@ input, select, textarea {
 	justify-content: center;
 	align-items: center;
 }
+
+.ref-links > h4 > a {
+	text-decoration: none;
+}
